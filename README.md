@@ -23,7 +23,13 @@ Eric Wastl — for creating Advent of Code.
 
 The AoC community — for discussions and inspiration.
 
-📌 Links
+### 📌 Links
 🌐 Advent of Code 2024 Website
+[Advent of Code](https://adventofcode.com/)
 
-📂 My GitHub Repository
+ 
+https://adventofcode.com/
+
+
+<img width="815" height="582" alt="Advent9" src="https://github.com/user-attachments/assets/cf724c0a-2de1-4088-8e09-25d1136c4eab" />
+
