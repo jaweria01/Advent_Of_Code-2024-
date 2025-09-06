@@ -31,5 +31,6 @@ The AoC community — for discussions and inspiration.
 https://adventofcode.com/
 
 
-<img width="815" height="582" alt="Advent9" src="https://github.com/user-attachments/assets/cf724c0a-2de1-4088-8e09-25d1136c4eab" />
+<img width="940" height="253" alt="JaweriaOnLeaderboard" src="https://github.com/user-attachments/assets/af868521-6847-4cbe-8f37-9838c5bf0c3a" />
+
 
